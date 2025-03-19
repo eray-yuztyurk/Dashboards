@@ -48,8 +48,8 @@ This project uses entirely fictional data created for demonstration purposes. Th
 3. Refresh data connections if necessary
 
 ## Live Demo
-You can view a live demonstration of this dashboard
-https://www.linkedin.com/feed/update/urn:li:activity:7305154275712667648/
+You can view a live demonstration of this dashboard:
+[https://www.linkedin.com/feed/update/urn:li:activity:7305154275712667648/](https://www.linkedin.com/feed/update/urn:li:activity:7305154275712667648/)
 
 ## Project Context
 This dashboard was created as part of a broader project involving data preprocessing and analysis. It demonstrates how Power BI can transform complex datasets into actionable insights, supporting data-driven financial decision-making.
